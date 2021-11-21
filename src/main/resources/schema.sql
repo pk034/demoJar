@@ -1,0 +1,1 @@
+create table com_users(user_id int not null,name varchar(20),mobile_no numeric);
