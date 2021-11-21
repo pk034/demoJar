@@ -14,7 +14,7 @@ public class JunitService {
 		
 //		ComUser cr=new ComUser("pk",9443903514L); 
 		//cu.save(cr);
-		return "user";
+		return "Welcnome Praveen! This project is deployed using Jenkins as JAR Package";
 	}
 	
 }
